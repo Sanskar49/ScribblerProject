@@ -44,6 +44,11 @@ the title "ScriBBler" & the sub-heading below "ScriBBLer" */
     justify-content: center;
     align-items: center;
     height: 100%;
+    margin-right: 10px;
+    border-top: #dad5be solid 3px;
+    border-left: #dad5be solid 3px;
+    border-bottom:  solid 3px #898989;
+    border-right:  solid 3px #898989;
 }
 
 
